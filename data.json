@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "self",
+        "name" : "Self",
+        "data" : {
+            "Links" : [
+                 { "label" : "test", "value": "<div>123456454dfgdfgfd</div>" }
+             ],
+            "Codes" : []
+        }
+    },
+    {
+        "id" : "other",
+        "name" : "Others",
+        "data" : {
+            "Links" : [],
+            "Codes" : [
+                { "label" : "test1", "value": "<div>nffmdvmfdkvmfdmkmklmlkm123</div>" }
+            ]
+        }
+    }
+]
